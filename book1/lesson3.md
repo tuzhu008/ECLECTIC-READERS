@@ -9,11 +9,8 @@
 
 ## 单词
 
-* at
-* the
-* ran
-* has
-* Ann 人名
+* hat
+* fan
 
 
 

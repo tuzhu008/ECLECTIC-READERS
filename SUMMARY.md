@@ -6,6 +6,7 @@
   * [Lesson2](book1/lesson2.md)
   * [Lesson3](book1/lesson3.md)
   * [Lesson4](book1/lesson4.md)
+  * [Lesson5](book1/lesson5.md)
 * [美国语文2](/book2/README.md)
 * [美国语文3](/book3/README.md)
 * [美国语文4](/book4/README.md)

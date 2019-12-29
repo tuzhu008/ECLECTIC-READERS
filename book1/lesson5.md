@@ -2,10 +2,15 @@
 
 ### 内容
 
-* A man and a lad
-* The man sat; the lad ran
+* The cat and the rat ran
+* Ann sat, and Nat ran
+* A rat ran at Nat
+* Can ann fan the lad?
+* The man and the lad
 * The man has a hat
-* The lad has a cap
+* The lad has a fan
+* Has Ann a hat?
+* Ann has a hat and a fan
 
 ## 单词
 

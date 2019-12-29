@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
+
 * [美国语文1](/book1/README.md)
 * [美国语文2](/book2/README.md)
 
